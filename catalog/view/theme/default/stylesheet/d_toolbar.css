@@ -1,0 +1,43 @@
+.d-toolbar {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	color: #ffffff !important;
+	background: #275e9f !important;
+	z-index: 30;
+}
+.d-toolbar .navbar {
+	min-height: 30px;
+	margin-bottom: 0px;
+}
+.d-toolbar .navbar .navbar-item {
+	background: #275e9f !important;
+}
+.d-toolbar .navbar .navbar-item:hover {
+	background: #23538d !important;
+}
+.d-toolbar .pull-left .navbar .navbar-item {
+	border-right: 1px solid #3c71aa !important;
+}
+.d-toolbar .pull-right .navbar .navbar-item {
+	border-left: 1px solid #3c71aa !important;
+}
+.d-toolbar .navbar .navbar-item > .title {
+	min-height: 15px;
+	padding: 10px 15px 10px 15px;
+	color: #fff !important;
+	background: #275e9f !important;
+}
+.d-toolbar .navbar .navbar-item:hover > .title {
+	background: #23538d !important;
+}
+.clear {
+	clear: both;
+}
+
+@media (max-width: 768px) {
+	.d-toolbar {
+		display: none;
+	}
+}
