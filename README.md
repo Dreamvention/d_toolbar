@@ -1,4 +1,4 @@
-# Forntend Toolbar
+# Frontend Toolbar
 ### d_toolbar
 https://dreamvention.ee
 
