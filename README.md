@@ -1,4 +1,4 @@
-# Frontend Toolbar
+# Frontend Toolbar for OpenCart
 ### d_toolbar
 https://dreamvention.ee
 
