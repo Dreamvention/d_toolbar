@@ -19,7 +19,7 @@ If you want to save time administrating your OpenCart, you must have the Fronten
 1. Download the compiled extension package from Shopunity at https://shopunity.net/extension/frontent-toolbar
 2. Install via Extension installer
 
-## How to developer your own widget for the Frontend Toolbar
+## How to develope your own widget for the Frontend Toolbar
 1. Download the Frontend Toolbar widget from Shopunity at https://shopunity.net/extension/frontent-toolbar-default-widget
 2. Edit it to your needs. 
 
