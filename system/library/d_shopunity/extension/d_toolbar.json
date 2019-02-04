@@ -1,6 +1,6 @@
 {
     "codename": "d_toolbar",
-    "version": "3.1.1",
+    "version": "3.1.2",
     "name": "Toolbar",
     "description": "Toolbar displays widgets of different modules for Administrator on frontend for different pages Opencart.",
 	"index": "extension/module/d_toolbar",
@@ -25,7 +25,8 @@
 		"3.0.0.0",
         "3.0.1.1",
         "3.0.1.2",
-        "3.0.2.0"
+        "3.0.2.0",
+        "3.0.3.1"
     ],
     "type": "module",
     "license": {
@@ -68,6 +69,10 @@
 		"catalog/controller/extension/d_toolbar/d_toolbar.php"
     ],
     "changelog": [
+        {
+            "version": "3.1.2",
+            "change": "Added support oc v 3.0.3.1"
+        },
         {
             "version": "3.1.1",
             "change": "Old Opencart Themes compatibility"
